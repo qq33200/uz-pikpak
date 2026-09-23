@@ -1,0 +1,22 @@
+[
+  {
+    "name": "[盘] TG搜²·PikPak",
+    "version": 91,
+    "remark": "在原版 TG搜² 基础上补上 PikPak 真实分享域名 mypikpak.com（原版只有 pikpak.me，永远匹配不到真实链接）。格式 频道名称@频道id|搜索数量",
+    "env": "TG搜API地址##https://tgsou.252035.xyz",
+    "webSite": "豆儿盘@douerpan&豆儿123@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&百度@bdwpzhpd&夸克百度@Aliyun_4K_Movies&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman",
+    "order": "A18",
+    "api": "https://cdn.jsdelivr.net/gh/qq33200/uz-pikpak@main/Pan_tgs_api_pikpak.js",
+    "type": 101
+  },
+  {
+    "name": "[盘] TG搜·PikPak",
+    "version": 131,
+    "remark": "在原版 TG搜 基础上补上 PikPak 真实分享域名 mypikpak.com。格式 频道名称1@频道id1&频道名称2@频道id2",
+    "env": "TG搜代理地址##默认直接访问 https://t.me 有自己的代理服务填入即可，没有不用改动。",
+    "webSite": "豆儿盘@douerpan&偶豆豆@odoudouo&豆儿123@zyfb123&LEO资源@leoziyuan&资源宇宙@tgsearchers7",
+    "order": "A17",
+    "api": "https://cdn.jsdelivr.net/gh/qq33200/uz-pikpak@main/Pan_tgs_pikpak.js",
+    "type": 101
+  }
+]
